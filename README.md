@@ -102,20 +102,6 @@ I enjoy taking an idea from “could this work?” to something that actually ru
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
 <br>
 
-📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmirRezaAfsharfard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaAfsharfard&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages">
-
-</div>
-
-<br>
-
 📈 Contribution activity
 
 <div align="center">
