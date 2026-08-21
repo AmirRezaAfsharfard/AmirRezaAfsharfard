@@ -4,8 +4,6 @@
 
 ### AI Student & Python Developer 🤖🐍
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300">
-
 <p>
 I’m a 19 year old AI student at Beihang University (BUAA) in Hangzhou, China.
 I work on deep learning models, high performance Python backends, distributed data pipelines,
@@ -14,7 +12,7 @@ and tools that make messy data a little less messy.
 
 <p>
 <a href="https://github.com/AmirRezaAfsharfard">GitHub</a> ·
-<a href="https://www.linkedin.com/in/amirrezaafshar/">LinkedIn</a> ·
+<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank"> ·
 <a href="https://www.instagram.com/amirrza.cn">Instagram</a> ·
 <a href="https://www.youtube.com/@RedBambu">YouTube</a>
 </p>
