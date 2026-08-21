@@ -1,153 +1,206 @@
 <div align="center">
 
-# Hi 👋, I'm AmirReza Afshar
+👋 Hi, I'm AmirReza Afshar
 
-### AI Student & Python Developer 🤖🐍
-
-<p>
-I’m a 19 year old AI student at Beihang University (BUAA) in Hangzhou, China.
-I work on deep learning models, high performance Python backends, distributed data pipelines,
-and tools that make messy data a little less messy.
-</p>
-
-  <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+AI Student & Python Developer 🤖🐍
 
 <p>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
-</a>
-  <a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
-</a>
-  <a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;">
-</a>
-
-  <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+AI+with+Python;Machine+Learning+%7C+Deep+Learning+%7C+Data;Learning+%7C+Building+%7C+Breaking+%7C+Fixing+%F0%9F%9A%80" alt="Animated introduction">
 </p>
 
+<p>
+<a href="https://github.com/AmirRezaAfsharfard">GitHub</a> ·
+<a href="https://www.youtube.com/@RedBambu">YouTube</a> ·
+<a href="https://www.instagram.com/amirrza.cn">Instagram</a> ·
+<a href="https://www.linkedin.com/in/amirrezaafshar/">LinkedIn</a> ·
+<a href="mailto:amirrezaafsharfard2007@gmail.com">Email</a>
+</p>
 
-## 👨‍💻 A little about me
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
+<br>
 
-- 🎓 I’m studying Artificial Intelligence at **Beihang University (BUAA)**
-- 📍 Currently based in **Hangzhou, China**
-- 🐍 Python is one of my main tools for building AI and data projects
-- 🤖 I’m interested in **Artificial Intelligence, Machine Learning, Deep Learning, and NLP**
-- 🧠 I enjoy working on the parts of AI that involve a lot of experimentation, debugging, and figuring out why the model decided to do something weird
-- 📊 I also work with large datasets, automated data processing, and backend systems
-- ⚡ Fun fact: I built an automated Python data cleaning engine that sanitized and validated **over 10 million raw sensor records**
+</div>
 
----
+👨‍💻 About me
 
-## 🧠 What I work on
+I'm a 19 year old AI student at Beihang University (BUAA) in Hangzhou, China.
+
+I work mainly with Artificial Intelligence and Python, especially around deep learning, data processing, automation, and backend development.
+
+I like building things that start as a small idea and somehow turn into a full project. Sometimes the code works immediately. Usually it doesn't. That's where the interesting part starts.
+
+⚡ A little fun fact
+
+I built an automated Python data cleaning engine that sanitized and validated more than 10 million raw sensor records.
+
+Apparently, cleaning data is a great way to discover how many different ways a dataset can be messy.
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
+<br>
+
+🧠 What I'm into
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Artificial Intelligence
+🤖 Artificial Intelligence
 
-Deep learning models, machine learning experiments, NLP, model training, evaluation, and practical AI systems.
+Machine Learning, Deep Learning, NLP, model training, experimentation, and practical AI systems.
 
 </td>
 <td width="50%">
 
-### 🐍 Python Development
+🐍 Python Development
 
-Python backends, automation tools, data processing pipelines, APIs, and scripts that save time on repetitive work.
+Python backends, automation, APIs, data processing, scripts, and tools that save time on repetitive work.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 Data Engineering
+📊 Data & Big Data
 
-Cleaning large datasets, handling messy records, building processing pipelines, and working with distributed data.
+Large datasets, automated cleaning, distributed processing, validation, and building reliable data pipelines.
 
 </td>
 <td width="50%">
 
-### ⚙️ Building Things
+⚙️ Building & Experimenting
 
-I like taking an idea, turning it into something that actually works, and then spending way too much time making it better.
+I enjoy taking an idea from “could this work?” to something that actually runs.
 
 </td>
 </tr>
 </table>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
+<br>
 
-## 🛠️ Technologies I use
+🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,github,docker,linux,fastapi,mongodb,mysql,postgres,js,ts,react,vscode&perline=8">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,github,docker,linux,fastapi,mongodb,mysql,postgres,js,ts,react,vscode&perline=8" alt="Technology icons">
 </p>
 
----
+<p align="center">
+<strong>AI / ML</strong> · Python · PyTorch · TensorFlow · OpenCV · NLP
+<br>
+<strong>Data</strong> · Pandas · NumPy · Apache Spark · Data Pipelines
+<br>
+<strong>Backend</strong> · FastAPI · APIs · Docker · Databases
+<br>
+<strong>Tools</strong> · Git · GitHub · Linux · VS Code
+</p>
 
-## 📊 GitHub Stats
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
+<br>
+
+📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmirRezaAfsharfard&show_icons=true&theme=dark&hide_border=false" alt="AmirReza's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=AmirRezaAfsharfard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRezaAfsharfard&theme=dark&hide_border=false" alt="AmirReza's GitHub Streak">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaAfsharfard&layout=compact&theme=dark&hide_border=false" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaAfsharfard&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages">
 
 </div>
 
----
+<br>
 
-## 🐍 My contributions
+📈 Contribution activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AmirRezaAfsharfard/AmirRezaAfsharfard/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirRezaAfsharfard&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph">
 
 </div>
 
----
+<br>
 
-## 🚀 A few things I like building
-
-I’m especially interested in projects where **AI and real software meet**.
-
-That could be a machine learning model, a Python automation tool, a data pipeline, an API, or something completely random that starts with “I wonder if I can build this.”
-
-I’m still learning a lot, but that’s honestly the fun part.
-
----
-
-## 📫 Find me around the internet
+🔥 Contribution streak
 
 <div align="center">
 
-<a href="https://github.com/AmirRezaAfsharfard">GitHub</a> ·
-<a href="https://www.linkedin.com/in/amirrezaafshar/">LinkedIn</a> ·
-<a href="https://www.instagram.com/amirrza.cn">Instagram</a> ·
-<a href="https://www.youtube.com/@RedBambu">YouTube</a> ·
-<a href="mailto:amirrezaafsharfard2007@gmail.com">Email</a>
+<img src="https://streak-stats.demolab.com?user=AmirRezaAfsharfard&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
+<br>
 
-## 💬 Want to talk?
+🚀 Things I like building
 
-Whether it’s AI, Python, machine learning, building something weird, or just figuring out why the code worked five minutes ago and suddenly doesn’t, I’m always interested in good conversations and interesting projects.
+I'm especially interested in projects where AI and real software meet.
+
+That can be a machine learning model, a Python automation tool, a data pipeline, an API, or a completely random idea that starts with:
+
+“I wonder if I can build this.”
+
+Then I usually try to build it.
+
+<br>
+
+📌 Currently focused on
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning and Deep Learning
+
+🐍 Advanced Python development
+
+📊 Data processing and automation
+
+⚡ High performance backend systems
+
+🔬 Learning by building real projects
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
+<br>
+
+🌐 Find me around the internet
 
 <div align="center">
 
-### Thanks for stopping by! 👋
+<a href="https://github.com/AmirRezaAfsharfard">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.youtube.com/@RedBambu">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://www.instagram.com/amirrza.cn">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/amirrezaafshar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:amirrezaafsharfard2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+<br>
+
+💬 Want to talk?
+
+Whether it's AI, Python, machine learning, building something weird, or figuring out why code worked five minutes ago and suddenly doesn't, I'm always interested in interesting ideas and projects.
+
+<div align="center">
+
+Code. Learn. Build. Repeat. 🚀
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AmirRezaAfsharfard&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
