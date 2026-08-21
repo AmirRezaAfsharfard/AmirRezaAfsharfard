@@ -111,16 +111,6 @@ I enjoy taking an idea from “could this work?” to something that actually ru
 </div>
 
 <br>
-
-🔥 Contribution streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AmirRezaAfsharfard&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-
-</div>
-
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
 <br>
 
