@@ -2,7 +2,7 @@
 
 Fancy seeing you here! 👋
 
-<strong>AmirReza Afshar</strong>
+<h1>AmirReza Afshar</h1>
 
 AI Student & Python Developer 🤖🐍
 
@@ -64,9 +64,6 @@ I enjoy taking an idea from “could this work?” to something that actually ru
 </tr>
 </table>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
-<br>
 
 🛠️ Tech stack
 
@@ -88,10 +85,6 @@ I enjoy taking an idea from “could this work?” to something that actually ru
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
 <br>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
-<br>
-
 📊 GitHub Analytics
 
 <div align="center">
@@ -105,12 +98,6 @@ I enjoy taking an idea from “could this work?” to something that actually ru
 <a href="https://github.com/AmirRezaAfsharfard?tab=stars">
 <img src="https://img.shields.io/github/stars/AmirRezaAfsharfard?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars">
 </a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmirRezaAfsharfard&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" width="480">
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaAfsharfard&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" width="350">
 
