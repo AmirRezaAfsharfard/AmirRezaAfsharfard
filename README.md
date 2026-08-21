@@ -81,62 +81,6 @@ I enjoy taking an idea from “could this work?” to something that actually ru
 <strong>Tools</strong> · Git · GitHub · Linux · VS Code
 </p>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
-<br>
-
-📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/AmirRezaAfsharfard">
-<img src="https://img.shields.io/github/followers/AmirRezaAfsharfard?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers">
-</a>
-<a href="https://github.com/AmirRezaAfsharfard?tab=repositories">
-<img src="https://img.shields.io/github/repos/AmirRezaAfsharfard?style=for-the-badge&logo=github&label=Repositories" alt="GitHub repositories">
-</a>
-<a href="https://github.com/AmirRezaAfsharfard?tab=stars">
-<img src="https://img.shields.io/github/stars/AmirRezaAfsharfard?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars">
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaAfsharfard&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" width="350">
-
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
-<br>
-
-🚀 Things I like building
-
-I'm especially interested in projects where AI and real software meet.
-
-That can be a machine learning model, a Python automation tool, a data pipeline, an API, or a completely random idea that starts with:
-
-“I wonder if I can build this.”
-
-Then I usually try to build it.
-
-<br>
-
-📌 Currently focused on
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning and Deep Learning
-
-🐍 Advanced Python development
-
-📊 Data processing and automation
-
-⚡ High performance backend systems
-
-🔬 Learning by building real projects
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
-<br>
-
 🌐 Find me around the internet
 
 <div align="center">
